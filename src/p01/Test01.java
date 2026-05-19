@@ -10,6 +10,7 @@ public class Test01 {
 		System.out.println("千安");
 		System.out.println("下山恭史");
 		System.out.println("こんにちはー！！");
+		System.out.println("Hi");
 	}
 
 }
