@@ -12,6 +12,7 @@ public class Test01 {
 		System.out.println("こんにちはー！！");
 		System.out.println("Hi");
 		System.out.println("Hello!");
+		System.out.println("GG");
 	}
 
 }
