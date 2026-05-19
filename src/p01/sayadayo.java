@@ -5,6 +5,8 @@ public class sayadayo {
 		String name = "saya";
 		if (name.equals("saya")) {
 			System.out.println("大森紗弥です！");
+		} else {
+			System.out.println("だれ？");
 		}
 	}
 }
