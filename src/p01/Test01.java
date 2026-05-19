@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("大森紗弥");
 		System.out.println("中川");
 		System.out.println("aaaaa");
+		System.out.println("千安");
 	}
 
 }
