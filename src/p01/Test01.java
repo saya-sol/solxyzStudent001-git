@@ -12,13 +12,8 @@ public class Test01 {
 		System.out.println("こんにちはー！！");
 		System.out.println("Hi");
 		System.out.println("Hello!");
-<<<<<<< HEAD
 		System.out.println("GG");
 
-=======
-
-		System.out.println("しもやまやすし");
->>>>>>> refs/heads/Shimoyama
 	}
 
 }
